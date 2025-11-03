@@ -53,11 +53,4 @@ Para compilar o código utilizando o GCC, use o seguinte comando no terminal:
 ```bash
 gcc xadrez.c -o xadrez
 
-### Execução
-
-Após a compilação, execute o programa:
-
-**Linux/macOS:**
-
-```bash
-./xadrez
+ 
